@@ -1,0 +1,353 @@
+fileFormatVersion: 2
+guid: c18c4723a93a1234eb780286ec097bb6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 114536136476228614
+    second: game-ui-kit-golden-user-interface-for-game-vector-31896061_0
+  - first:
+      213: -899338359033751132
+    second: game-ui-kit-golden-user-interface-for-game-vector-31896061_1
+  - first:
+      213: 4661751583862856300
+    second: game-ui-kit-golden-user-interface-for-game-vector-31896061_2
+  - first:
+      213: 29724907576246471
+    second: game-ui-kit-golden-user-interface-for-game-vector-31896061_3
+  - first:
+      213: -200011520968058463
+    second: game-ui-kit-golden-user-interface-for-game-vector-31896061_4
+  - first:
+      213: -5445775587799682070
+    second: game-ui-kit-golden-user-interface-for-game-vector-31896061_5
+  - first:
+      213: 1294842964609798554
+    second: game-ui-kit-golden-user-interface-for-game-vector-31896061_6
+  - first:
+      213: 4099842368842188521
+    second: game-ui-kit-golden-user-interface-for-game-vector-31896061_7
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: game-ui-kit-golden-user-interface-for-game-vector-31896061_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 763
+        width: 1000
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c7c90620ae69100800000000000000
+      internalID: 114536136476228614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-kit-golden-user-interface-for-game-vector-31896061_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 171
+        width: 522
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a919e00788e483f0800000000000000
+      internalID: -899338359033751132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-kit-golden-user-interface-for-game-vector-31896061_2
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 523
+        width: 162
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a9243dd5ed1b040800000000000000
+      internalID: 4661751583862856300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-kit-golden-user-interface-for-game-vector-31896061_3
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 519
+        width: 178
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0401d55aa996000800000000000000
+      internalID: 29724907576246471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-kit-golden-user-interface-for-game-vector-31896061_4
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 331
+        width: 134
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a996b5d49a693df0800000000000000
+      internalID: -200011520968058463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-kit-golden-user-interface-for-game-vector-31896061_5
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 331
+        width: 134
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3b4b2b4f7bc64b0800000000000000
+      internalID: -5445775587799682070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-kit-golden-user-interface-for-game-vector-31896061_6
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 171
+        width: 363
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a911b71e0d438f110800000000000000
+      internalID: 1294842964609798554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game-ui-kit-golden-user-interface-for-game-vector-31896061_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1000
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e64fed99e095e830800000000000000
+      internalID: 4099842368842188521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      game-ui-kit-golden-user-interface-for-game-vector-31896061_0: 114536136476228614
+      game-ui-kit-golden-user-interface-for-game-vector-31896061_1: -899338359033751132
+      game-ui-kit-golden-user-interface-for-game-vector-31896061_2: 4661751583862856300
+      game-ui-kit-golden-user-interface-for-game-vector-31896061_3: 29724907576246471
+      game-ui-kit-golden-user-interface-for-game-vector-31896061_4: -200011520968058463
+      game-ui-kit-golden-user-interface-for-game-vector-31896061_5: -5445775587799682070
+      game-ui-kit-golden-user-interface-for-game-vector-31896061_6: 1294842964609798554
+      game-ui-kit-golden-user-interface-for-game-vector-31896061_7: 4099842368842188521
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
